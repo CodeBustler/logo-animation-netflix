@@ -1,3 +1,5 @@
-# logoAnimationNetflix
+# Logo Animation Netflix
+By using HTML & CSS
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/web-platform-hbd32x)
+## Live
+https://netflix-logo-animation-cb.netlify.app/
